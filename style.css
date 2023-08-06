@@ -2,7 +2,59 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-weight: 400;
 
-  color-scheme: dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+}
+
+body{
+  margin: 0 5%;
+  min-height: 100vh;
+  background: radial-gradient(circle at top right, #1354eb, #000000 40%);
+}
+
+.conteiner-top{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.conteiner-body{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 9em;
+}
+
+.main-text{
+  font-size: 2.5em;
+}
+
+.sub-text{
+  font-size: 1.4em;
+}
+
+.conteiner-conhecimentos{
+  margin-top: 15em;
+  text-align: center;
+}
+
+.conteiner-elementos{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10em;
+}
+
+.conteiner-trabalhos_recentes{
+  margin-top: 15em;
+  text-align: center;
+}
+
+.conteiner-footer{
+  margin-top: 15em;
+  text-align: center;
+}
+
+.sub-conteiner{
+  display: flex;
+  justify-content: center;
 }
