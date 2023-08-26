@@ -41,6 +41,16 @@ body{
   position: relative;
 }
 
+.redes-sociais{
+  padding-top: 2rem;
+}
+
+
+.redes-sociais > a{
+  margin: 0 1.3rem;
+  text-decoration: none;
+}
+
 .n1{height: 30%;}
 
 .n2{height: 40%;}
@@ -196,6 +206,10 @@ body{
 
   .conteiner-top{
     padding-top: 2rem;
+  }
+
+  .redes-sociais{
+    margin: 0 auto;
   }
 
   .conteiner-top img{
