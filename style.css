@@ -43,7 +43,7 @@ body{
 
 .n1{height: 28%;}
 
-.n2{height: 38%;}
+.n2{height: 39%;}
 
 .n3{height: 57%;}
 
@@ -51,15 +51,13 @@ body{
 
 .n5{height: 100%;}
 
-/* teste */
-
 @media (prefers-reduced-motion: no-preference) {
   .mr {
-    animation: move-to-right infinite 120s linear;
+    animation: move-to-right infinite 130s linear;
   }
 
   .ml{
-    animation: move-to-left infinite 80s linear;
+    animation: move-to-left infinite 90s linear;
   }
 }
 
@@ -80,8 +78,6 @@ body{
     transform: rotate(0deg);
   }
 }
-
-/* xxxxxxxxxxxxxxxxxxxxxxxxxxx */
 
 .conteiner-body .conteiner-circle img{
   position: absolute;
@@ -195,17 +191,31 @@ body{
 /* responsividade para celulares */
 @media screen and (max-width: 420px){
 
+  .conteiner-top{
+    padding-top: 2rem;
+  }
+
+  .conteiner-top img{
+    height: 2.2rem;
+    width: auto;
+  }
+
+  .conteiner-body .conteiner-circle{
+    width: 20rem;
+    height: 20rem;
+  }
+
   .main-text{
     text-align: center;
     min-width: 100%;
   }
 
   .main-text .main{
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 
   .main-text .sub{
-    font-size: .9em;
+    font-size: 1em;
   }
 
   .conteiner-body > p{
