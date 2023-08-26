@@ -40,471 +40,259 @@
      id="layer1"
      transform="translate(-98.954166,-84.137501)">
     <g
-       id="g199"
-       transform="matrix(1.2309415,0,0,1.2117802,25.620726,-5.303905)"
-       style="fill:#ffffff">
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="119.33829"
-         y="-154.21432"
+       id="g1">
+      <path
+         d="m 141.65859,-216.86919 3.08881,1.15354 v 1.21073 l -4.06598,-1.7589 v -0.82941 z m 3.08881,-0.93904 -3.08881,1.17261 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.12971 -3.13647,-1.13924 v -1.2012 l 4.13747,1.7589 v 0.83894 z m -3.13647,0.97717 3.14124,-1.17261 0.99623,-0.22403 v 0.83417 l -4.13747,1.7589 z"
          id="text158"
-         transform="rotate(90)"><tspan
-           id="tspan158"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="119.33829"
-           y="-154.21432">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="101.70582"
-         y="-171.39085"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0,0.99218628,-1.0078753,0,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 116.39462,-236.76662 3.08881,1.15353 v 1.21074 l -4.06598,-1.7589 v -0.82941 z m 3.08881,-0.93904 -3.08881,1.17261 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.12971 -3.13647,-1.13924 v -1.2012 l 4.13747,1.7589 v 0.83894 z m -3.13647,0.97716 3.14124,-1.1726 0.99623,-0.22403 v 0.83417 l -4.13747,1.7589 z"
          id="text159"
-         transform="rotate(98.571432)"><tspan
-           id="tspan159"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="101.70582"
-           y="-171.39085">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="81.710251"
-         y="-185.74756"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.15021607,0.98110437,-0.99661811,-0.14787775,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 88.447256,-252.67643 3.088808,1.15354 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088808,-0.93903 -3.088808,1.1726 -0.97717,0.20973 v -0.83416 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136475,-1.13924 v -1.2012 l 4.137478,1.75891 v 0.83893 z m -3.136475,0.97717 3.141242,-1.1726 0.996236,-0.22404 v 0.83417 l -4.137478,1.75891 z"
          id="text160"
-         transform="rotate(107.14286)"><tspan
-           id="tspan160"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="81.710251"
-           y="-185.74756">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="59.798306"
-         y="-196.96373"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.2970765,0.94810622,-0.96309816,-0.29245209,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 58.440858,-264.24321 3.088809,1.15353 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088809,-0.93904 -3.088809,1.1726 -0.977169,0.20974 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136475,-1.13923 v -1.20121 l 4.137478,1.75891 v 0.83893 z m -3.136475,0.97717 3.141242,-1.1726 0.996236,-0.22404 v 0.83417 l -4.137478,1.75891 z"
          id="text161"
-         transform="rotate(115.71428)"><tspan
-           id="tspan161"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="59.798306"
-           y="-196.96373">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="36.459312"
-         y="-204.78883"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.43730059,0.89392901,-0.90806425,-0.43049341,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 27.045539,-271.20858 3.088809,1.15354 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088809,-0.93903 -3.088809,1.1726 -0.977169,0.20973 v -0.83417 l 4.065978,-1.75413 z m 4.347212,1.1297 -3.136475,-1.13924 v -1.2012 l 4.137478,1.7589 v 0.83894 z m -3.136475,0.97717 3.141242,-1.1726 0.996236,-0.22404 v 0.83417 l -4.137478,1.75891 z"
          id="text162"
-         transform="rotate(124.28573)"><tspan
-           id="tspan162"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="36.459312"
-           y="-204.78883">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="12.214856"
-         y="-209.04803"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.56775658,0.81978263,-0.83274545,-0.55891866,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -5.0370846,-273.41692 3.0888085,1.15354 v 1.21073 l -4.0659779,-1.7589 v -0.8294 z m 3.0888085,-0.93904 -3.0888085,1.17261 -0.9771694,0.20973 v -0.83417 l 4.0659779,-1.75414 z m 4.3472122,1.12971 -3.13647531,-1.13924 v -1.2012 l 4.13747811,1.7589 v 0.83894 z m -3.13647531,0.97717 3.14124201,-1.17261 0.9962361,-0.22403 v 0.83417 l -4.13747811,1.7589 z"
          id="text163"
-         transform="rotate(132.85714)"><tspan
-           id="tspan163"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="12.214856"
-           y="-209.04803">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-12.393699"
-         y="-209.64621"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.68552924,0.72732404,-0.73882487,-0.67485802,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -37.090621,-270.81893 3.088809,1.15354 v 1.21073 l -4.065978,-1.7589 v -0.8294 z m 3.088809,-0.93903 -3.088809,1.1726 -0.977169,0.20973 v -0.83417 l 4.065978,-1.75413 z m 4.347212,1.1297 -3.136475,-1.13924 v -1.2012 l 4.137478,1.7589 v 0.83894 z m -3.136475,0.97717 3.141242,-1.17261 0.996236,-0.22403 v 0.83417 l -4.137478,1.7589 z"
          id="text164"
-         transform="rotate(141.42857)"><tspan
-           id="tspan164"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-12.393699"
-           y="-209.64621">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-36.816502"
-         y="-206.56999"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.78798859,0.61861805,-0.62839996,-0.77572246,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -68.398875,-263.47262 3.088809,1.15354 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088809,-0.93903 -3.088809,1.1726 -0.977169,0.20974 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136475,-1.13923 v -1.20121 l 4.137478,1.75891 v 0.83893 z m -3.136475,0.97717 3.141242,-1.1726 0.996236,-0.22404 v 0.83417 l -4.137478,1.75891 z"
          id="text165"
-         transform="rotate(150)"><tspan
-           id="tspan165"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-36.816502"
-           y="-206.56999">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-60.508083"
-         y="-199.88808"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.87284558,0.49609315,-0.50393763,-0.85925851,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -98.262591,-251.54209 3.088809,1.15354 v 1.21073 l -4.065978,-1.7589 v -0.8294 z m 3.088809,-0.93903 -3.088809,1.1726 -0.977169,0.20973 v -0.83417 l 4.065978,-1.75413 z m 4.347212,1.1297 -3.136476,-1.13924 v -1.2012 l 4.137479,1.7589 v 0.83894 z m -3.136476,0.97717 3.141242,-1.17261 0.996237,-0.22403 v 0.83417 l -4.137479,1.7589 z"
          id="text166"
-         transform="rotate(158.57143)"><tspan
-           id="tspan166"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-60.508083"
-           y="-199.88808">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-82.939117"
-         y="-189.74979"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.9382046,0.36248633,-0.36821816,-0.92360019,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -126.01455,-235.29389 3.08881,1.15354 v 1.21073 l -4.06598,-1.7589 v -0.8294 z m 3.08881,-0.93904 -3.08881,1.17261 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.12971 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97717 3.14125,-1.17261 0.99623,-0.22403 v 0.83417 l -4.13748,1.7589 z"
          id="text167"
-         transform="rotate(167.14286)"><tspan
-           id="tspan167"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-82.939117"
-           y="-189.74979">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-103.60863"
-         y="-176.38153"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.98260569,0.22078217,-0.22427329,-0.96731015,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -151.03492,-215.09092 3.08881,1.15354 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93903 -3.08881,1.1726 -0.97717,0.20973 v -0.83416 l 4.06598,-1.75414 z m 4.34721,1.1297 -3.13648,-1.13924 v -1.2012 l 4.13748,1.75891 v 0.83893 z m -3.13648,0.97717 3.14125,-1.1726 0.99623,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text168"
-         transform="rotate(175.71429)"><tspan
-           id="tspan168"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-103.60863"
-           y="-176.38153">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-122.05481"
-         y="-160.08197"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-1.005057,0.0741461,-0.07531854,-0.98941194,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -172.7647,-191.38453 3.0888,1.15354 v 1.21074 l -4.06597,-1.75891 v -0.8294 z m 3.0888,-0.93903 -3.0888,1.1726 -0.97717,0.20973 v -0.83416 l 4.06597,-1.75414 z m 4.34722,1.1297 -3.13648,-1.13924 v -1.2012 l 4.13748,1.75891 v 0.83893 z m -3.13648,0.97717 3.14124,-1.1726 0.99624,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text169"
-         transform="rotate(-175.71428)"><tspan
-           id="tspan169"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-122.05481"
-           y="-160.08197">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-137.86563"
-         y="-141.21523"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-1.005057,-0.07414628,0.07531872,-0.98941193,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -190.71853,-164.7043 3.08881,1.15353 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93904 -3.08881,1.1726 -0.97717,0.20974 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.1297 -3.13648,-1.13923 v -1.20121 l 4.13748,1.75891 v 0.83893 z m -3.13648,0.97717 3.14125,-1.1726 0.99623,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text170"
-         transform="rotate(-167.14286)"><tspan
-           id="tspan170"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-137.86563"
-           y="-141.21523">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-150.68794"
-         y="-120.20267"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.98260569,-0.22078217,0.22427329,-0.96731015,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -204.49537,-135.64611 3.08881,1.15354 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93903 -3.08881,1.1726 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75413 z m 4.34721,1.1297 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97717 3.14125,-1.1726 0.99623,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text171"
-         transform="rotate(-158.57142)"><tspan
-           id="tspan171"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-150.68794"
-           y="-120.20267">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-160.23526"
-         y="-97.513794"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.93820458,-0.36248649,0.36821831,-0.92360009,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -213.78739,-104.85921 3.0888,1.15353 v 1.21074 l -4.06597,-1.7589 v -0.82941 z m 3.0888,-0.93904 -3.0888,1.17261 -0.97717,0.20973 v -0.83417 l 4.06597,-1.75414 z m 4.34722,1.12971 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97716 3.14124,-1.1726 0.99624,-0.22403 v 0.83417 l -4.13748,1.7589 z"
          id="text172"
-         transform="rotate(-150)"><tspan
-           id="tspan172"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-160.23526"
-           y="-97.513794">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-166.29436"
-         y="-73.655334"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.87284558,-0.49609315,0.50393763,-0.85925851,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -218.38713,-73.031217 3.08881,1.153537 v 1.210736 l -4.06597,-1.758904 v -0.829403 z m 3.08881,-0.939036 -3.08881,1.172604 -0.97716,0.209733 v -0.834169 l 4.06597,-1.754138 z m 4.34722,1.129703 -3.13648,-1.139236 v -1.201203 l 4.13748,1.758904 v 0.838936 z m -3.13648,0.97717 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758904 z"
          id="text173"
-         transform="rotate(-141.42856)"><tspan
-           id="tspan173"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-166.29436"
-           y="-73.655334">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-168.72984"
-         y="-49.160339"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.78798847,-0.61861819,0.6284001,-0.77572235,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -218.19174,-40.873223 3.08881,1.153536 v 1.210737 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13647,-1.139237 v -1.201203 l 4.13748,1.758905 v 0.838935 z m -3.13647,0.977169 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text174"
-         transform="rotate(-132.85714)"><tspan
-           id="tspan174"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-168.72984"
-           y="-49.160339">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-167.48735"
-         y="-24.575975"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.68552924,-0.72732404,0.73882487,-0.67485802,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -213.20567,-9.1035663 3.08881,1.1535365 v 1.2107367 l -4.06598,-1.7589049 v -0.8294023 z m 3.08881,-0.9390357 -3.08881,1.172603 -0.97717,0.2097339 v -0.834169 l 4.06598,-1.7541379 z m 4.34721,1.1297029 -3.13647,-1.1392369 v -1.201203 l 4.13748,1.7589049 v 0.8389357 z m -3.13647,0.9771693 3.14124,-1.1726032 0.99624,-0.224034 v 0.834169 l -4.13748,1.7589049 z"
          id="text175"
-         transform="rotate(-124.28573)"><tspan
-           id="tspan175"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-167.48735"
-           y="-24.575975">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-162.5946"
-         y="-0.45126382"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.56775658,-0.81978263,0.83274545,-0.55891866,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -203.5402,21.568263 3.08881,1.153536 v 1.210737 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13648,-1.139236 V 19.41849 l 4.13748,1.758905 v 0.838936 z m -3.13648,0.977169 3.14125,-1.172603 0.99623,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text176"
-         transform="rotate(-115.71428)"><tspan
-           id="tspan176"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-162.5946"
-           y="-0.45126382">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-154.16093"
-         y="22.674671"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.43730059,-0.89392901,0.90806425,-0.43049341,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -189.41136,50.456832 3.08881,1.153536 v 1.210737 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13647,-1.139237 v -1.201203 l 4.13748,1.758905 V 50.9049 Z m -3.13647,0.977169 3.14124,-1.172603 0.99624,-0.224034 V 51.0622 l -4.13748,1.758905 z"
          id="text177"
-         transform="rotate(-107.14286)"><tspan
-           id="tspan177"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-154.16093"
-           y="22.674671">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-142.37469"
-         y="44.285408"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.2970765,-0.94810622,0.96309816,-0.29245209,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -171.13465,76.917025 3.0888,1.153537 v 1.210737 l -4.06597,-1.758905 v -0.829403 z m 3.0888,-0.939036 -3.0888,1.172604 -0.97717,0.209734 v -0.834169 l 4.06597,-1.754139 z m 4.34722,1.129704 -3.13648,-1.139237 v -1.201203 l 4.13748,1.758905 v 0.838935 z m -3.13648,0.977169 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text178"
-         transform="rotate(-98.571419)"><tspan
-           id="tspan178"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-142.37469"
-           y="44.285408">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-127.49921"
-         y="63.89806"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(-0.15021585,-0.9811044,0.99661815,-0.14787754,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -149.11843,100.35761 3.08881,1.15353 v 1.21074 l -4.06598,-1.7589 v -0.82941 z m 3.08881,-0.939038 -3.08881,1.172598 -0.97717,0.20974 v -0.83417 l 4.06598,-1.754138 z m 4.34721,1.129698 -3.13648,-1.139232 v -1.201203 l 4.13748,1.758905 v 0.83894 z m -3.13648,0.97717 3.14124,-1.1726 0.99624,-0.22403 v 0.83417 l -4.13748,1.7589 z"
          id="text179"
-         transform="rotate(-90)"><tspan
-           id="tspan179"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-127.49921"
-           y="63.89806">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-109.86671"
-         y="81.074623"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0,-0.99218628,1.0078753,0,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -123.85443,120.25509 3.08881,1.15354 v 1.21073 l -4.06598,-1.7589 v -0.8294 z m 3.08881,-0.93903 -3.08881,1.1726 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75413 z m 4.34721,1.1297 -3.13647,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13647,0.97717 3.14124,-1.17261 0.99624,-0.22403 v 0.83417 l -4.13748,1.7589 z"
          id="text180"
-         transform="rotate(-81.428559)"><tspan
-           id="tspan180"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-109.86671"
-           y="81.074623">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-89.87117"
-         y="95.43132"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.15021622,-0.98110435,0.99661809,0.1478779,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -95.907099,136.1649 3.088808,1.15353 v 1.21074 l -4.065978,-1.7589 v -0.82941 z m 3.088808,-0.93904 -3.088808,1.1726 -0.97717,0.20974 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136475,-1.13923 v -1.20121 l 4.137478,1.75891 v 0.83893 z m -3.136475,0.97717 3.141242,-1.1726 0.996236,-0.22403 v 0.83417 l -4.137478,1.7589 z"
          id="text181"
-         transform="rotate(-72.857136)"><tspan
-           id="tspan181"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-89.87117"
-           y="95.43132">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-67.959167"
-         y="106.64751"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.29707656,-0.94810621,0.96309814,0.29245215,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -65.90063,147.73167 3.088809,1.15354 v 1.21073 l -4.065978,-1.7589 v -0.8294 z m 3.088809,-0.93904 -3.088809,1.17261 -0.977169,0.20973 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.12971 -3.136475,-1.13924 v -1.2012 l 4.137478,1.7589 v 0.83894 z m -3.136475,0.97717 3.141242,-1.17261 0.996236,-0.22403 v 0.83417 l -4.137478,1.7589 z"
          id="text182"
-         transform="rotate(-64.285699)"><tspan
-           id="tspan182"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-67.959167"
-           y="106.64751">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-44.620262"
-         y="114.47258"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.43730093,-0.89392885,0.90806409,0.43049374,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -34.505427,154.69702 3.088809,1.15353 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088809,-0.93904 -3.088809,1.1726 -0.977169,0.20974 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136476,-1.13923 v -1.20121 l 4.137479,1.75891 v 0.83893 z m -3.136476,0.97717 3.141242,-1.1726 0.996237,-0.22403 v 0.83416 l -4.137479,1.75891 z"
          id="text183"
-         transform="rotate(-55.71428)"><tspan
-           id="tspan183"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-44.620262"
-           y="114.47258">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="-20.375702"
-         y="118.73179"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.56775644,-0.81978272,0.83274555,0.55891852,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m -2.4226666,156.90538 3.08880854,1.15353 v 1.21074 L -3.399836,157.51074 v -0.8294 z m 3.08880854,-0.93904 -3.08880854,1.1726 -0.9771694,0.20974 v -0.83417 l 4.06597794,-1.75414 z m 4.34721216,1.1297 -3.1364753,-1.13923 v -1.20121 l 4.1374781,1.75891 v 0.83893 z m -3.1364753,0.97717 3.141242,-1.1726 0.9962361,-0.22404 v 0.83417 l -4.1374781,1.75891 z"
          id="text184"
-         transform="rotate(-47.142837)"><tspan
-           id="tspan184"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="-20.375702"
-           y="118.73179">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="4.2328024"
-         y="119.32996"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.68552953,-0.72732377,0.7388246,0.67485832,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 29.630805,154.30737 3.088809,1.15353 v 1.21074 l -4.065978,-1.7589 v -0.82941 z m 3.088809,-0.93904 -3.088809,1.17261 -0.977169,0.20973 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.12971 -3.136475,-1.13924 v -1.2012 l 4.137478,1.7589 v 0.83894 z m -3.136475,0.97716 3.141242,-1.1726 0.996236,-0.22403 v 0.83417 l -4.137478,1.7589 z"
          id="text185"
-         transform="rotate(-38.571417)"><tspan
-           id="tspan185"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="4.2328024"
-           y="119.32996">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="28.655617"
-         y="116.25374"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.78798873,-0.61861788,0.62839978,0.7757226,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 60.939073,146.96105 3.088809,1.15354 v 1.21074 l -4.065978,-1.75891 v -0.8294 z m 3.088809,-0.93903 -3.088809,1.1726 -0.977169,0.20974 v -0.83417 l 4.065978,-1.75414 z m 4.347212,1.1297 -3.136476,-1.13923 v -1.20121 l 4.137479,1.75891 v 0.83893 z m -3.136476,0.97717 3.141242,-1.1726 0.996237,-0.22404 v 0.83417 l -4.137479,1.75891 z"
          id="text186"
-         transform="rotate(-29.999991)"><tspan
-           id="tspan186"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="28.655617"
-           y="116.25374">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="52.347149"
-         y="109.57185"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.87284566,-0.49609302,0.50393749,0.85925859,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 90.802732,135.03056 3.088808,1.15353 v 1.21074 l -4.065977,-1.7589 v -0.82941 z m 3.088808,-0.93904 -3.088808,1.17261 -0.977169,0.20973 v -0.83417 l 4.065977,-1.75414 z m 4.347213,1.12971 -3.136476,-1.13924 v -1.2012 l 4.137478,1.7589 v 0.83894 z m -3.136476,0.97716 3.141242,-1.1726 0.996236,-0.22403 v 0.83417 l -4.137478,1.7589 z"
          id="text187"
-         transform="rotate(-21.428571)"><tspan
-           id="tspan187"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="52.347149"
-           y="109.57185">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="74.778259"
-         y="99.433517"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.93820459,-0.36248635,0.36821817,0.92360019,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 118.55478,118.7823 3.08881,1.15353 v 1.21074 l -4.06598,-1.7589 v -0.82941 z m 3.08881,-0.93904 -3.08881,1.17261 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.12971 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97716 3.14124,-1.1726 0.99624,-0.22403 v 0.83417 l -4.13748,1.7589 z"
          id="text188"
-         transform="rotate(-12.857122)"><tspan
-           id="tspan188"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="74.778259"
-           y="99.433517">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="95.447655"
-         y="86.065315"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.9826058,-0.22078187,0.22427299,0.96731018,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 143.57502,98.579425 3.08881,1.153536 v 1.210739 l -4.06598,-1.758907 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13648,-1.139237 v -1.201203 l 4.13748,1.758905 v 0.838936 z m -3.13648,0.977169 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758907 z"
          id="text189"
-         transform="rotate(-4.2857264)"><tspan
-           id="tspan189"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="95.447655"
-           y="86.065315">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="113.89389"
-         y="69.765717"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(1.005057,-0.07414638,0.07531882,0.98941192,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 165.30486,74.872973 3.08881,1.153537 v 1.210736 l -4.06598,-1.758904 v -0.829403 z m 3.08881,-0.939036 -3.08881,1.172604 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754139 z m 4.34721,1.129703 -3.13647,-1.139236 v -1.201203 l 4.13747,1.758905 v 0.838935 z m -3.13647,0.97717 3.14124,-1.172603 0.99623,-0.224034 v 0.834169 l -4.13747,1.758904 z"
          id="text190"
-         transform="rotate(4.2857264)"><tspan
-           id="tspan190"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="113.89389"
-           y="69.765717">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="129.70473"
-         y="50.89896"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(1.005057,0.07414638,-0.07531882,0.98941192,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 183.2587,48.192725 3.08881,1.153537 v 1.210736 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13647,-1.139236 v -1.201204 l 4.13748,1.758905 v 0.838936 z m -3.13647,0.97717 3.14124,-1.172604 0.99624,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text191"
-         transform="rotate(12.857147)"><tspan
-           id="tspan191"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="129.70473"
-           y="50.89896">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="142.52701"
-         y="29.886456"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.9826057,0.22078229,-0.22427342,0.96731008,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 197.0355,19.134604 3.08881,1.153537 v 1.210736 l -4.06598,-1.758904 V 18.91057 Z m 3.08881,-0.939036 -3.08881,1.172604 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754139 z m 4.34721,1.129703 -3.13648,-1.139236 v -1.201203 l 4.13748,1.758905 v 0.838935 z m -3.13648,0.97717 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758904 z"
          id="text192"
-         transform="rotate(21.428571)"><tspan
-           id="tspan192"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="142.52701"
-           y="29.886456">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="152.07434"
-         y="7.1975513"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.93820459,0.36248635,-0.36821817,0.92360019,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 206.32755,-11.652329 3.08881,1.153537 v 1.2107365 l -4.06598,-1.7589045 v -0.829403 z m 3.08881,-0.939036 -3.08881,1.172604 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754139 z m 4.34721,1.129704 -3.13647,-1.139237 v -1.201203 l 4.13747,1.758905 v 0.838935 z m -3.13647,0.977169 3.14124,-1.172603 0.99623,-0.224034 v 0.834169 l -4.13747,1.7589045 z"
          id="text193"
-         transform="rotate(30.000001)"><tspan
-           id="tspan193"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="152.07434"
-           y="7.1975513">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="158.13344"
-         y="-16.660919"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.87284557,0.49609316,-0.50393765,0.8592585,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 210.92728,-43.48034 3.08881,1.153536 v 1.210737 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13647,-1.139236 v -1.201204 l 4.13748,1.758905 v 0.838936 z m -3.13647,0.977169 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text194"
-         transform="rotate(38.571444)"><tspan
-           id="tspan194"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="158.13344"
-           y="-16.660919">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="160.56892"
-         y="-41.155918"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.78798843,0.61861824,-0.62840015,0.77572231,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 210.73189,-75.638341 3.08881,1.153536 v 1.210737 l -4.06598,-1.758905 v -0.829402 z m 3.08881,-0.939036 -3.08881,1.172603 -0.97717,0.209734 v -0.834169 l 4.06598,-1.754138 z m 4.34721,1.129703 -3.13647,-1.139236 v -1.201204 l 4.13748,1.758905 v 0.838936 z m -3.13647,0.977169 3.14124,-1.172603 0.99624,-0.224034 v 0.834169 l -4.13748,1.758905 z"
          id="text195"
-         transform="rotate(47.142864)"><tspan
-           id="tspan195"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="160.56892"
-           y="-41.155918">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="159.32643"
-         y="-65.740318"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.68552918,0.72732409,-0.73882492,0.67485798,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 205.74581,-107.40805 3.08881,1.15354 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93903 -3.08881,1.1726 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75413 z m 4.34721,1.1297 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97717 3.14125,-1.1726 0.99623,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text196"
-         transform="rotate(55.714287)"><tspan
-           id="tspan196"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="159.32643"
-           y="-65.740318">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="154.4337"
-         y="-89.86496"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.56775633,0.81978279,-0.83274562,0.55891842,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 196.08037,-138.07978 3.08881,1.15354 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93903 -3.08881,1.1726 -0.97717,0.20973 v -0.83417 l 4.06598,-1.75413 z m 4.34721,1.1297 -3.13647,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13647,0.97717 3.14124,-1.1726 0.99624,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text197"
-         transform="rotate(64.285713)"><tspan
-           id="tspan197"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="154.4337"
-           y="-89.86496">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="146"
-         y="-112.99097"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.4373007,0.89392892,-0.90806424,0.43049351,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 181.95148,-166.96843 3.08881,1.15353 v 1.21074 l -4.06598,-1.75891 v -0.8294 z m 3.08881,-0.93904 -3.08881,1.1726 -0.97717,0.20974 v -0.83417 l 4.06598,-1.75414 z m 4.34721,1.1297 -3.13647,-1.13923 v -1.20121 l 4.13748,1.75891 v 0.83893 z m -3.13647,0.97717 3.14124,-1.1726 0.99624,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text198"
-         transform="rotate(72.857157)"><tspan
-           id="tspan198"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="146"
-           y="-112.99097">&lt;&gt;</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.9931px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0400419"
-         x="134.21379"
-         y="-134.60162"
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.29707621,0.94810631,-0.96309825,0.29245181,0,0)"
+         aria-label="&lt;&gt;" />
+      <path
+         d="m 163.67483,-193.42855 3.0888,1.15354 v 1.21074 l -4.06597,-1.75891 v -0.8294 z m 3.0888,-0.93903 -3.0888,1.1726 -0.97717,0.20973 v -0.83417 l 4.06597,-1.75413 z m 4.34722,1.1297 -3.13648,-1.13924 v -1.2012 l 4.13748,1.7589 v 0.83894 z m -3.13648,0.97717 3.14124,-1.1726 0.99624,-0.22404 v 0.83417 l -4.13748,1.75891 z"
          id="text199"
-         transform="rotate(81.428566)"><tspan
-           id="tspan199"
-           style="fill:#ffffff;stroke-width:0.0400419"
-           x="134.21379"
-           y="-134.60162">&lt;&gt;</tspan></text>
+         style="font-size:9.76216px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn, @wght=600';font-variation-settings:'wght' 600;fill:#ffffff;stroke-width:0.0489041"
+         transform="matrix(0.15021611,0.98110436,-0.99661811,0.14787778,0,0)"
+         aria-label="&lt;&gt;" />
     </g>
   </g>
 </svg>

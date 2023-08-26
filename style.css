@@ -33,23 +33,25 @@ body{
 }
 
 .conteiner-body .conteiner-circle{
-  width: 70vh;
-  height: 70vh;
+  width: 60vh;
+  height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
 }
 
-.n1{height: 28%;}
+.n1{height: 30%;}
 
-.n2{height: 39%;}
+.n2{height: 40%;}
 
-.n3{height: 57%;}
+.n3{height: 60%;}
 
 .n4{height: 70%;}
 
 .n5{height: 100%;}
+
+/* efeitos de animação*/
 
 @media (prefers-reduced-motion: no-preference) {
   .mr {
@@ -84,16 +86,16 @@ body{
 }
 
 .main-text{
-  margin-top: 4rem;
+  margin-top: 5rem;
   text-align: left;
 }
 
 .main-text .main{
-  font-size: 2.5em;
+  font-size: 2.6em;
 }
 
 .main-text .sub{
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .conteiner-conhecimentos{
@@ -158,6 +160,7 @@ body{
   padding: 10px 12px;
   color: #61b3ff;
   margin: 0 auto;
+  font-size: .9rem;
 }
 
 .conteiner{
