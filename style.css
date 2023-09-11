@@ -38,8 +38,8 @@ body{
 }
 
 .conteiner-body .conteiner-circle{
-  width: 60vh;
-  height: 60vh;
+  width: 58vh;
+  height: 58vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -128,7 +128,7 @@ body{
 
 .conteiner-elementos .elemento{
   display: flex;
-  margin-top: 10rem;
+  margin-top: 8rem;
   height: auto;
   text-align: left;
 }
@@ -225,8 +225,8 @@ body{
   }
 
   .conteiner-body .conteiner-circle{
-    width: 65vw;
-    height: 65vw;
+    width: 66vw;
+    height: 66vw;
   }
 
   .conteiner-elementos .elemento{
@@ -239,14 +239,10 @@ body{
   }
 
   .main-text .main{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .main-text .sub{
-    font-size: 1.1rem;
-  }
-
-  .conteiner-elementos .elemento{
-    min-width: 100%;
+    font-size: 1.2rem;
   }
 }
