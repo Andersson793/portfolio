@@ -10,6 +10,7 @@ body{
   margin: 0 5%;
   min-height: 100vh;
   background: radial-gradient(circle at top right, #1354eb, #000000 25%);
+  max-width: 100vw;
 }
 
 .conteiner-top{
@@ -20,7 +21,7 @@ body{
 }
 
 .conteiner-top img{
-  height: 2.5rem;
+  height: 2.2rem;
   width: auto;
 }
 
@@ -30,6 +31,10 @@ body{
   justify-content: space-around;
   align-items: top;
   margin-top: 4em;
+}
+
+.conteiner-body .conteiner-circle img{
+  position: absolute;
 }
 
 .conteiner-body .conteiner-circle{
@@ -49,6 +54,11 @@ body{
 .redes-sociais > a{
   margin: 0 1.3rem;
   text-decoration: none;
+}
+
+.redes-sociais img{
+  width: auto;
+  height: 1.4rem;
 }
 
 .n1{height: 30%;}
@@ -91,21 +101,17 @@ body{
   }
 }
 
-.conteiner-body .conteiner-circle img{
-  position: absolute;
-}
-
 .main-text{
   margin-top: 5rem;
   text-align: left;
 }
 
 .main-text .main{
-  font-size: 2.6rem;
+  font-size: 2.4rem;
 }
 
 .main-text .sub{
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 
 .conteiner-conhecimentos{
@@ -137,7 +143,7 @@ body{
 }
 
 .conteiner-elementos .elemento img{
-  width: 5rem;
+  width: 4rem;
   height: auto;
 }
 
@@ -151,12 +157,13 @@ body{
 }
 
 .conteiner-trabalhos .trabalhos {
-  max-width: 20rem;
+  max-width: 25rem;
   height: auto;
 }
 
 .conteiner-trabalhos .trabalhos p{
   margin: 2rem 0;
+  width: 20rem;
 }
 
 .conteiner-trabalhos .trabalhos img{
@@ -197,12 +204,12 @@ body{
 }
 
 .conteiner-footer .sub-conteiner img{
-  width: 1.8rem;
+  width: 1.7rem;
   height: auto;
 }
 
 /* responsividade para celulares */
-@media screen and (max-width: 420px){
+@media screen and (max-width: 450px){
 
   .conteiner-top{
     padding-top: 2rem;
@@ -213,13 +220,17 @@ body{
   }
 
   .conteiner-top img{
-    height: 2.2rem;
+    height: 2.1rem;
     width: auto;
   }
 
   .conteiner-body .conteiner-circle{
-    width: 20rem;
-    height: 20rem;
+    width: 65vw;
+    height: 65vw;
+  }
+
+  .conteiner-elementos .elemento{
+    margin-right: 0;
   }
 
   .main-text{
@@ -228,15 +239,11 @@ body{
   }
 
   .main-text .main{
-    font-size: 1.6em;
+    font-size: 1.5rem;
   }
 
   .main-text .sub{
-    font-size: 1em;
-  }
-
-  .conteiner-body > p{
-    min-width: 100%;
+    font-size: 1.1rem;
   }
 
   .conteiner-elementos .elemento{
