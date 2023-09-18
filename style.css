@@ -101,16 +101,16 @@ body{
   }
 }
 
-.main-text{
+.conteiner-text{
   margin-top: 5rem;
   text-align: left;
 }
 
-.main-text .main{
-  font-size: 2.4rem;
+.conteiner-text h1{
+  font-size: 2.3rem;
 }
 
-.main-text .sub{
+.conteiner-text .sub-text{
   font-size: 1.3rem;
 }
 
@@ -147,30 +147,35 @@ body{
   height: auto;
 }
 
-.conteiner-trabalhos{
+.conteiner-projetos{
   margin-top: 15em;
   text-align: center;
 }
 
-.conteiner-trabalhos .conteiner{
+.conteiner-projetos .conteiner{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
   margin: 10rem;
 }
 
-.conteiner-trabalhos .trabalhos {
+.conteiner-projetos .trabalhos {
   max-width: 25rem;
   height: auto;
+  margin-top: 7rem;
 }
 
-.conteiner-trabalhos .trabalhos p{
+.conteiner-projetos .trabalhos p{
   margin: 2rem 0;
   width: 20rem;
 }
 
-.conteiner-trabalhos .trabalhos img{
-  max-width: 12rem;
+.conteiner-projetos .trabalhos img{
+  width: 9rem;
 }
 
-.conteiner-trabalhos .link{
+.conteiner-projetos .link{
   background-color: rgba(63, 146, 255, 0.226);
   max-width: fit-content;
   border-radius: 6px;
@@ -180,12 +185,7 @@ body{
   font-size: .9rem;
 }
 
-.conteiner{
-  display: flex;
-  justify-content: center;
-}
-
-.conteiner-trabalhos .conteiner  a{
+.conteiner-projetos .conteiner  a{
   text-decoration: none;
 }
 
@@ -233,16 +233,16 @@ body{
     margin-right: 0;
   }
 
-  .main-text{
+  .conteiner-text{
     text-align: center;
     min-width: 100%;
   }
 
-  .main-text .main{
+  .conteiner-text .main{
     font-size: 1.7rem;
   }
 
-  .main-text .sub{
+  .conteiner-text .sub{
     font-size: 1.2rem;
   }
 }
