@@ -46,6 +46,20 @@ body{
   position: relative;
 }
 
+.conteiner-text{
+  margin-top: 5rem;
+  text-align: left;
+}
+
+.conteiner-text h1{
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.conteiner-text .sub-text{
+  font-size: 1.3rem;
+}
+
 .redes-sociais{
   padding-top: 2rem;
 }
@@ -101,19 +115,6 @@ body{
   }
 }
 
-.conteiner-text{
-  margin-top: 5rem;
-  text-align: left;
-}
-
-.conteiner-text h1{
-  font-size: 2.3rem;
-}
-
-.conteiner-text .sub-text{
-  font-size: 1.3rem;
-}
-
 .conteiner-conhecimentos{
   margin-top: 15em;
   text-align: center;
@@ -157,30 +158,30 @@ body{
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  margin: 10rem;
+  margin-top: 5rem;
 }
 
-.conteiner-projetos .trabalhos {
+.conteiner-projetos .projeto {
   max-width: 25rem;
   height: auto;
   margin-top: 7rem;
 }
 
-.conteiner-projetos .trabalhos p{
+.conteiner-projetos .projeto p{
   margin: 2rem 0;
   width: 20rem;
 }
 
-.conteiner-projetos .trabalhos img{
-  width: 9rem;
+.conteiner-projetos .projeto img{
+  height: 1.8rem;
 }
 
 .conteiner-projetos .link{
-  background-color: rgba(63, 146, 255, 0.226);
+  background-color: rgba(63, 146, 255, 0.158);
   max-width: fit-content;
   border-radius: 6px;
   padding: 10px 12px;
-  color: #61b3ff;
+  color: #87c5ff;
   margin: 0 auto;
   font-size: .9rem;
 }
@@ -238,7 +239,7 @@ body{
     min-width: 100%;
   }
 
-  .conteiner-text .main{
+  .conteiner-text h1{
     font-size: 1.7rem;
   }
 
