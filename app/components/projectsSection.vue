@@ -18,7 +18,7 @@ export default {
             projetos
         </SubTitles>
 
-        <div class="grid grid-cols-3 col-span-6 gap-x-9 justify-items-center">
+        <div class="grid grid-cols-3 col-span-6 gap-x-9 gap-y-24 justify-items-center">
             <ProjectItem asset="/nosso fut logo.svg" href="https://www.nossofut.com/">
                 Um site de futebol que desenvolvi, que consome os dados de uma API em tempo real.
             </ProjectItem>

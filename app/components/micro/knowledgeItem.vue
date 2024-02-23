@@ -7,7 +7,7 @@ export default {
 }
 </script>
 <template>
-    <div class="flex text-left">
+    <div class="flex text-left col-span-3 sm:col-span-1">
 
         <div>
             <p class="mb-4 font-bold">{{ title }}</p>
@@ -16,7 +16,7 @@ export default {
             </p>
         </div>
 
-        <img :src=asset alt="image" class="h-16 ml-4">
+        <img :src=asset alt="image" class="h-16 ml-4 hidden sm:block">
 
     </div>
 </template>

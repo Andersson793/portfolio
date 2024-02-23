@@ -14,11 +14,11 @@ export default {
 <template>
     <div class="justify-self-center">
         <div class="mt-20 mb-9">
-            <h1 class="text-4xl mb-2">Olá meu nome é Andersson</h1>
-            <p class="text-lg sub-text">Sou desenvolvedor Front end</p>
+            <h1 class="text-2xl mb-2">Olá meu nome é Andersson</h1>
+            <p class="text-md sub-text">Sou desenvolvedor Front-end</p>
         </div>
 
-        <div class="flex gap-10">
+        <div class="flex:md gap-10 hidden">
             <Github/>
             <Linkedin/>
             <Instagram/>

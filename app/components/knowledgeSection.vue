@@ -17,7 +17,7 @@ export default {
             conhecimnetos
         </SubTitles>
 
-        <div class="grid grid-cols-3 col-span-6 gap-x-9 justify-items-center">
+        <div class="grid grid-cols-3 auto-rows-auto gap-x-9 gap-y-24 justify-items-center">
 
             <KnowledgeItem title="Frontend" asset="/front end.svg">
                 Conhecimnetos em Front-end que incluem <b>HTML</b>, <b>CSS</b>, e <b>Javascript</b>, <b>Vue.js</b> e <b>React.js</b>.
@@ -30,6 +30,8 @@ export default {
             <KnowledgeItem title="Linux" asset="/linux-logo.svg">
                 Conhecimneto em linux com <b>Shell Script</b>, <b>gerenciadores de pacotes</b>, e <b>máquinas virtuais</b>.
             </KnowledgeItem>
+
         </div>
+
     </Section>
 </template>

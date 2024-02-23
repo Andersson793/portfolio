@@ -15,7 +15,7 @@ export default {
             Precisa de um freelancer ?
         </SubTitles>
 
-        <p class="text-center ">Faça o seu novo site pessoal, ou da sua empresa.</p>
+        <p class="text-center ">Faça o seu novo site pessoal / portfolio, ou uma Landing page para sua empresa.</p>
 
         <div class="text-center p-24">
             <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
@@ -31,5 +31,4 @@ export default {
             </div>
         </div>
     </Section>
-    <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 </template>
