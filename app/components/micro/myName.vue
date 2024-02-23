@@ -12,13 +12,13 @@ export default {
 }
 </script>
 <template>
-    <div class="justify-self-center">
+    <div class="justify-self-center sm:text-left">
         <div class="mt-20 mb-9">
             <h1 class="text-2xl mb-2">Olá meu nome é Andersson</h1>
-            <p class="text-md sub-text">Sou desenvolvedor Front-end</p>
+            <p>Sou desenvolvedor Front-end</p>
         </div>
 
-        <div class="flex:md gap-10 hidden">
+        <div class="gap-10 hidden sm:flex">
             <Github/>
             <Linkedin/>
             <Instagram/>

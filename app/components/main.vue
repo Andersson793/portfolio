@@ -16,7 +16,7 @@ export default {
 }
 </script>
 <template>
-    <main>
+    <main class="text-md">
         <FistSection/>
         <KnowledgeSection/>
         <ProjectsSection/>
